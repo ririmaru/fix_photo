@@ -1,0 +1,2 @@
+import photofix
+import __main__
